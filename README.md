@@ -9,7 +9,9 @@
 
 how many points out of 20 do you deserve on this assignment:
 20
+
 ## Self-Reflection:
+I think I did good
 
 ### How long it took me to finish this?
-5-6 hours
+2 hours
