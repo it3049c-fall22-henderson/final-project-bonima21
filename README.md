@@ -14,4 +14,4 @@ how many points out of 20 do you deserve on this assignment:
 I think I did good
 
 ### How long it took me to finish this?
-2 hours
+toturial was easy to follow,4 hours
